@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  background-color: #f2f3ec; /* Changed background image to a simple color */
+  color: #333333; /* Changed text color to a darker shade of gray */
+}
+
+body {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.forecast {
+  font-size: 0.9em;
+}
+
+span {
+  font-size: 1em;
+}
+
+li:hover {
+  background-color: rgb(18, 109, 200);
+  text-decoration: underline;
+}
